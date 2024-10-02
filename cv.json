@@ -1,0 +1,273 @@
+{
+  "basics": {
+    "name": "Cristopher Garcia Andrade",
+    "label": "Desarrollador web",
+    "image": "https://chris6six6.github.io/portfolio/profile.jpg",
+    "email": "g.a.cristo42@gmail.com",
+    "phone": "5521874023",
+    "url": "https://chris6six6.github.io/portfolio/",
+    "summary": "Estudiante de Ingeniería en Sistemas Computacionales en ESCOM IPN. Mi curiosidad me ha llevado a entender cómo funcionan el mundo y sus complejos sistemas. Además de mi pasión por la tecnología, he perfeccionado mi técnica en guitarra eléctrica hasta un nivel shred aplicando practica, disciplina y constancia. Habilidades que tambien llevo a cabo mi carrera profesional.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ciudad de Mexico",
+      "countryCode": "MX",
+      "region": "Mexico"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Chris6six6",
+        "url": "https://www.linkedin.com/in/chris6six6/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Chris6six6",
+        "url": "https://github.com/Chris6six6"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "GuitarHeroes",
+      "position": "Desarrollador Backend y Frontend",
+      "url": "https://guitarheroes.blog/",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "summary": "Desarrollo herramientas interactivas para guitarristas que incluyen un círculo de quintas, generador de escalas, metrónomo y tap tempo. Estas herramientas están diseñadas para músicos de todos los niveles, con un enfoque especial en los guitarristas que desean mejorar su técnica y teoría musical.",
+      "highlights": [
+        "Desarrollo de aplicaciones con React, D3.js, y Tailwind CSS",
+        "Integración de herramientas para mejorar la práctica musical diaria"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "ESCOM IPN",
+      "url": "",
+      "area": "Ingeniería en Sistemas Computacionales",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2024-12-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [
+    {
+      "name": "Front End Development Libraries",
+      "date": "2024-01-01",
+      "issuer": "Freecodecamp",
+      "url": "https://www.freecodecamp.org/certification/Chris666/front-end-development-libraries"
+    },
+    {
+      "name": "Data Visualization",
+      "date": "2024-02-01",
+      "issuer": "Freecodecamp",
+      "url": "https://www.freecodecamp.org/certification/Chris666/data-visualization"
+    },
+    {
+      "name": "Relational Database",
+      "date": "2024-03-01",
+      "issuer": "Freecodecamp",
+      "url": "https://www.freecodecamp.org/certification/Chris666/relational-database-v8"
+    },
+    {
+      "name": "Back End Development and APIs",
+      "date": "2024-04-01",
+      "issuer": "Freecodecamp",
+      "url": "https://www.freecodecamp.org/certification/Chris666/back-end-development-and-apis"
+    }
+  ],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "GuitarHeroes page",
+      "isActive": true,
+      "description": "Página interactiva con herramientas para músicos que incluye un círculo de quintas, generador de escalas, metrónomo, tap tempo y foro. Desarrollada con React, D3.js y Tailwind.",
+      "highlights": [
+        "Herramientas útiles para la práctica musical diaria",
+        "Diseño interactivo para músicos de todos los niveles"
+      ],
+      "url": "https://guitarheroes.blog/"
+    },
+    {
+      "name": "Expense - Budget Control",
+      "isActive": true,
+      "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto y haciendo un seguimiento de sus gastos en las siguientes categorías: Ahorro, Alimentación, Vivienda, Gastos varios, Ocio, Salud y Suscripciones.",
+      "highlights": [
+        "Podrá ver sus gastos totales y el saldo restante de su presupuesto"
+      ],
+      "url": "https://chris6six6.github.io/Control-de-gastos-React//"
+    },
+    {
+      "name": "Pomodoro Clock Project",
+      "isActive": true,
+      "description": "Herramienta de gestión de tiempo basada en la técnica Pomodoro. Permite dividir el trabajo en intervalos con descansos cortos.",
+      "highlights": [
+        "Interfaz simple y efectiva para mejorar la productividad y descansos"
+      ],
+      "url": "https://chris6six6.github.io/Build-a-25-5-Clock/"
+    },
+    {
+      "name": "Choropleth Map Visualization Project",
+      "isActive": true,
+      "description": "Mapa coroplético que muestra los niveles educativos en los condados de EE.UU. usando D3.js.",
+      "highlights": [
+        "Visualización clara de datos educativos por región"
+      ],
+      "url": "https://chris6six6.github.io/Choropleth-Map--D3/"
+    },
+    {
+      "name": "URL Shortener Microservice",
+      "isActive": true,
+      "description": "Microservicio que acorta URLs con Node.js y Express.",
+      "highlights": [
+        "Acorta URLs de manera eficiente y rápida",
+        "Consulta las url registradas"
+      ],
+      "url": "https://url-shortener-microservice-xcqr.onrender.com/"
+    },
+    {
+      "name": "User Exercise Tracker",
+      "isActive": true,
+      "description": "API para gestionar registros de ejercicio físico de usuarios.",
+      "highlights": [
+        "Permite registrar y consultar actividades físicas"
+      ],
+      "url": "https://exercise-tracker-a5gl.onrender.com/"
+    },
+    {
+      "name": "BienesRaices",
+      "isActive": true,
+      "description": "Portal inmobiliario donde los usuarios pueden publicar propiedades.",
+      "highlights": [
+        "Plataforma para la compra y venta de propiedades"
+      ],
+      "url": "https://bienesraices-1oxe.onrender.com/"
+    },
+    {
+      "name": "DevJobs",
+      "isActive": true,
+      "description": "Plataforma de empleo para desarrolladores y reclutadores.",
+      "highlights": [
+        "Conecta desarrolladores con reclutadores fácilmente"
+      ],
+      "url": "https://devjobs-6wph.onrender.com/"
+    },
+    {
+      "name": "Meeti",
+      "isActive": true,
+      "description": "Plataforma inspirada en Meetup para crear y compartir eventos comunitarios.",
+      "highlights": [
+        "Facilita la creación y participación en eventos comunitarios"
+      ],
+      "url": "https://meeti-66rk.onrender.com/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+  ]
+}
