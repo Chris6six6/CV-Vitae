@@ -127,11 +127,14 @@
     {
       "name": "Expense - Budget Control",
       "isActive": true,
-      "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto y haciendo un seguimiento de sus gastos en las siguientes categorías: Ahorro, Alimentación, Vivienda, Gastos varios, Ocio, Salud y Suscripciones.",
+      "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto haciendo seguimiento de sus gastos en distintas categorias.",
       "highlights": [
-        "Podrá ver sus gastos totales y el saldo restante de su presupuesto"
+        "Ahorro, Alimentación, Vivienda, Gastos varios, Ocio, Salud y Suscripciones.",
+        "Podrá ver sus gastos totales y el saldo restante de su presupuesto",
+        "Desarrollada con Typescript y React"
       ],
-      "url": "https://chris6six6.github.io/Control-de-gastos-React//"
+      "url": "https://chris6six6.github.io/Control-de-gastos-React//",
+      "github": "https://github.com/Chris6six6/Control-de-gastos-React"
     },
     {
       "name": "Pomodoro Clock Project",
@@ -140,7 +143,9 @@
       "highlights": [
         "Interfaz simple y efectiva para mejorar la productividad y descansos"
       ],
-      "url": "https://chris6six6.github.io/Build-a-25-5-Clock/"
+      "url": "https://chris6six6.github.io/Build-a-25-5-Clock/",
+      "github": "https://github.com/Chris6six6/Build-a-25-5-Clock"
+      
     },
     {
       "name": "Choropleth Map Visualization Project",
@@ -149,7 +154,8 @@
       "highlights": [
         "Visualización clara de datos educativos por región"
       ],
-      "url": "https://chris6six6.github.io/Choropleth-Map--D3/"
+      "url": "https://chris6six6.github.io/Choropleth-Map--D3/",
+      "github": "https://github.com/Chris6six6/Choropleth-Map--D3"
     },
     {
       "name": "URL Shortener Microservice",
@@ -159,7 +165,8 @@
         "Acorta URLs de manera eficiente y rápida",
         "Consulta las url registradas"
       ],
-      "url": "https://url-shortener-microservice-xcqr.onrender.com/"
+      "url": "https://url-shortener-microservice-xcqr.onrender.com/",
+      "github": "https://github.com/Chris6six6/URL-Shortener-Microservice"
     },
     {
       "name": "User Exercise Tracker",
@@ -168,7 +175,8 @@
       "highlights": [
         "Permite registrar y consultar actividades físicas"
       ],
-      "url": "https://exercise-tracker-a5gl.onrender.com/"
+      "url": "https://exercise-tracker-a5gl.onrender.com/",
+      "github": "https://github.com/Chris6six6/Exercise-Tracker"
     },
     {
       "name": "BienesRaices",
@@ -177,7 +185,8 @@
       "highlights": [
         "Plataforma para la compra y venta de propiedades"
       ],
-      "url": "https://bienesraices-1oxe.onrender.com/"
+      "url": "https://bienesraices-1oxe.onrender.com/",
+      "github": "https://github.com/Chris6six6/BienesRaices"
     },
     {
       "name": "DevJobs",
@@ -186,7 +195,8 @@
       "highlights": [
         "Conecta desarrolladores con reclutadores fácilmente"
       ],
-      "url": "https://devjobs-6wph.onrender.com/"
+      "url": "https://devjobs-6wph.onrender.com/",
+      "github": "https://github.com/Chris6six6/devJobs"
     },
     {
       "name": "Meeti",
@@ -195,7 +205,8 @@
       "highlights": [
         "Facilita la creación y participación en eventos comunitarios"
       ],
-      "url": "https://meeti-66rk.onrender.com/"
+      "url": "https://meeti-66rk.onrender.com/",
+      "github": "https://github.com/Chris6six6/meeti"
     }
   ],
   "skills": [
