@@ -2,7 +2,7 @@
   "name": "minimalist-portfolio-json",
   "type": "module",
   "version": "0.0.1",
-  "package-manager": "pnpm@latest",
+  "package-manager": "npm",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
