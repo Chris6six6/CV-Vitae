@@ -125,6 +125,18 @@
       "url": "https://guitarheroes.blog/"
     },
     {
+      "name": "REST API - Productos",
+      "isActive": true,
+      "description": "API para gestionar productos y su disponibilidad. Documentada con Swagger ",
+      "highlights": [
+        "API RESTful para la gestión de productos.",
+        "Desarrollada con Node.js y TypeScript",
+        "Testing con Jest y Supertest."
+      ],
+      "url": "https://rest-api-productos.onrender.com/docs/",
+      "github": "https://github.com/Chris6six6/REST-API---Productos"
+    },
+    {
       "name": "Expense - Budget Control",
       "isActive": true,
       "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto haciendo seguimiento de sus gastos en distintas categorias.",
@@ -167,16 +179,6 @@
       ],
       "url": "https://url-shortener-microservice-xcqr.onrender.com/",
       "github": "https://github.com/Chris6six6/URL-Shortener-Microservice"
-    },
-    {
-      "name": "User Exercise Tracker",
-      "isActive": true,
-      "description": "API para gestionar registros de ejercicio físico de usuarios.",
-      "highlights": [
-        "Permite registrar y consultar actividades físicas"
-      ],
-      "url": "https://exercise-tracker-a5gl.onrender.com/",
-      "github": "https://github.com/Chris6six6/Exercise-Tracker"
     },
     {
       "name": "BienesRaices",
