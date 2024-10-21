@@ -137,6 +137,16 @@
       "github": "https://github.com/Chris6six6/REST-API---Productos"
     },
     {
+      "name": "BienesRaices",
+      "isActive": true,
+      "description": "Portal inmobiliario donde los usuarios pueden publicar propiedades.",
+      "highlights": [
+        "Plataforma para la compra y venta de propiedades"
+      ],
+      "url": "https://bienesraices-1oxe.onrender.com/",
+      "github": "https://github.com/Chris6six6/BienesRaices"
+    },
+    {
       "name": "Expense - Budget Control",
       "isActive": true,
       "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto haciendo seguimiento de sus gastos en distintas categorias.",
@@ -179,16 +189,6 @@
       ],
       "url": "https://url-shortener-microservice-xcqr.onrender.com/",
       "github": "https://github.com/Chris6six6/URL-Shortener-Microservice"
-    },
-    {
-      "name": "BienesRaices",
-      "isActive": true,
-      "description": "Portal inmobiliario donde los usuarios pueden publicar propiedades.",
-      "highlights": [
-        "Plataforma para la compra y venta de propiedades"
-      ],
-      "url": "https://bienesraices-1oxe.onrender.com/",
-      "github": "https://github.com/Chris6six6/BienesRaices"
     },
     {
       "name": "DevJobs",
