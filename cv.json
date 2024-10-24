@@ -117,7 +117,7 @@
     {
       "name": "GuitarHeroes page",
       "isActive": true,
-      "description": "Página interactiva con herramientas para músicos que incluye un círculo de quintas, generador de escalas, metrónomo, tap tempo y foro. Desarrollada con React, D3.js y Tailwind.",
+      "description": "Página con herramientas para músicos que incluye un círculo de quintas, generador de escalas, metrónomo, tap tempo y foro.",
       "highlights": [
         "Herramientas útiles para la práctica musical diaria",
         "Diseño interactivo para músicos de todos los niveles"
@@ -141,7 +141,8 @@
       "isActive": true,
       "description": "Portal inmobiliario donde los usuarios pueden publicar propiedades.",
       "highlights": [
-        "Plataforma para la compra y venta de propiedades"
+        "Plataforma para la compra y venta de propiedades",
+        "Implementado con Express, MySQL, Sequelize y JWT para autenticación."
       ],
       "url": "https://bienesraices-1oxe.onrender.com/",
       "github": "https://github.com/Chris6six6/BienesRaices"
@@ -149,7 +150,7 @@
     {
       "name": "Expense - Budget Control",
       "isActive": true,
-      "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto haciendo seguimiento de sus gastos en distintas categorias.",
+      "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto.",
       "highlights": [
         "Ahorro, Alimentación, Vivienda, Gastos varios, Ocio, Salud y Suscripciones.",
         "Podrá ver sus gastos totales y el saldo restante de su presupuesto",
@@ -163,7 +164,8 @@
       "isActive": true,
       "description": "Herramienta de gestión de tiempo basada en la técnica Pomodoro. Permite dividir el trabajo en intervalos con descansos cortos.",
       "highlights": [
-        "Interfaz simple y efectiva para mejorar la productividad y descansos"
+        "Interfaz simple y efectiva para mejorar la productividad y descansos",
+        "Tecnologías utilizadas HTML CSS JavaScript React"
       ],
       "url": "https://chris6six6.github.io/Build-a-25-5-Clock/",
       "github": "https://github.com/Chris6six6/Build-a-25-5-Clock"
@@ -174,7 +176,8 @@
       "isActive": true,
       "description": "Mapa coroplético que muestra los niveles educativos en los condados de EE.UU. usando D3.js.",
       "highlights": [
-        "Visualización clara de datos educativos por región"
+        "Visualización clara de datos educativos por región",
+        "Tecnologías utilizadas HTML CSS JavaScript D3.js"
       ],
       "url": "https://chris6six6.github.io/Choropleth-Map--D3/",
       "github": "https://github.com/Chris6six6/Choropleth-Map--D3"
