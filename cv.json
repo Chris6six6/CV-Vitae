@@ -29,9 +29,9 @@
   },
   "work": [
     {
-      "name": "GuitarHeroes",
+      "name": "GuitArtBlog",
       "position": "Desarrollador Backend y Frontend",
-      "url": "https://guitarheroes.blog/",
+      "url": "https://guitart.blog/",
       "startDate": "2024-01-01",
       "endDate": null,
       "summary": "Desarrollo herramientas interactivas para guitarristas que incluyen un círculo de quintas, generador de escalas, metrónomo y tap tempo. Estas herramientas están diseñadas para músicos de todos los niveles, con un enfoque especial en los guitarristas que desean mejorar su técnica y teoría musical.",
@@ -64,25 +64,25 @@
       "name": "Front End Development Libraries",
       "date": "2024-01-01",
       "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/Chris666/front-end-development-libraries"
+      "url": "https://www.freecodecamp.org/certification/chris666/front-end-development-libraries"
     },
     {
       "name": "Data Visualization",
       "date": "2024-02-01",
       "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/Chris666/data-visualization"
+      "url": "https://www.freecodecamp.org/certification/chris666/data-visualization"
     },
     {
       "name": "Relational Database",
       "date": "2024-03-01",
       "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/Chris666/relational-database-v8"
+      "url": "https://www.freecodecamp.org/certification/chris666/relational-database-v8"
     },
     {
       "name": "Back End Development and APIs",
       "date": "2024-04-01",
       "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/Chris666/back-end-development-and-apis"
+      "url": "https://www.freecodecamp.org/certification/chris666/back-end-development-and-apis"
     }
   ],
   "publications": [{
@@ -115,14 +115,14 @@
   }],
   "projects": [
     {
-      "name": "GuitarHeroes page",
+      "name": "GuitArt",
       "isActive": true,
       "description": "Página con herramientas para músicos que incluye un círculo de quintas, generador de escalas, metrónomo, tap tempo y foro.",
       "highlights": [
         "Herramientas útiles para la práctica musical diaria",
         "Diseño interactivo para músicos de todos los niveles"
       ],
-      "url": "https://guitarheroes.blog/"
+      "url": "https://guitart.blog/"
     },
     {
       "name": "REST API - Productos",
@@ -135,29 +135,6 @@
       ],
       "url": "https://rest-api-productos.onrender.com/docs/",
       "github": "https://github.com/Chris6six6/REST-API---Productos"
-    },
-    {
-      "name": "BienesRaices",
-      "isActive": true,
-      "description": "Portal inmobiliario donde los usuarios pueden publicar propiedades.",
-      "highlights": [
-        "Plataforma para la compra y venta de propiedades",
-        "Implementado con Express, MySQL, Sequelize y JWT para autenticación."
-      ],
-      "url": "https://bienesraices-1oxe.onrender.com/",
-      "github": "https://github.com/Chris6six6/BienesRaices"
-    },
-    {
-      "name": "Expense - Budget Control",
-      "isActive": true,
-      "description": "Gestione eficazmente sus finanzas estableciendo un presupuesto.",
-      "highlights": [
-        "Ahorro, Alimentación, Vivienda, Gastos varios, Ocio, Salud y Suscripciones.",
-        "Podrá ver sus gastos totales y el saldo restante de su presupuesto",
-        "Desarrollada con Typescript y React"
-      ],
-      "url": "https://chris6six6.github.io/Control-de-gastos-React//",
-      "github": "https://github.com/Chris6six6/Control-de-gastos-React"
     },
     {
       "name": "Pomodoro Clock Project",
@@ -192,26 +169,6 @@
       ],
       "url": "https://url-shortener-microservice-xcqr.onrender.com/",
       "github": "https://github.com/Chris6six6/URL-Shortener-Microservice"
-    },
-    {
-      "name": "DevJobs",
-      "isActive": true,
-      "description": "Plataforma de empleo para desarrolladores y reclutadores.",
-      "highlights": [
-        "Conecta desarrolladores con reclutadores fácilmente"
-      ],
-      "url": "https://devjobs-6wph.onrender.com/",
-      "github": "https://github.com/Chris6six6/devJobs"
-    },
-    {
-      "name": "Meeti",
-      "isActive": true,
-      "description": "Plataforma inspirada en Meetup para crear y compartir eventos comunitarios.",
-      "highlights": [
-        "Facilita la creación y participación en eventos comunitarios"
-      ],
-      "url": "https://meeti-66rk.onrender.com/",
-      "github": "https://github.com/Chris6six6/meeti"
     }
   ],
   "skills": [
