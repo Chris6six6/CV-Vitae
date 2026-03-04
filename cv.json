@@ -1,25 +1,18 @@
 {
   "basics": {
     "name": "Cristopher Garcia Andrade",
-    "label": "Desarrollador web",
+    "label": "Frontend Developer",
     "image": "https://chris6six6.github.io/portfolio/profile.jpg",
     "email": "g.a.cristo42@gmail.com",
-    "phone": "5521874023",
+    "phone": "+52 5521874023",
     "url": "https://chris6six6.github.io/portfolio/",
-    "summary": "Estudiante de Ingeniería en Sistemas Computacionales en ESCOM IPN. Mi curiosidad me ha llevado a entender cómo funcionan el mundo y sus complejos sistemas. Además de mi pasión por la tecnología, he perfeccionado mi técnica en guitarra eléctrica hasta un nivel shred aplicando practica, disciplina y constancia. Habilidades que tambien llevo a cabo mi carrera profesional.",
+    "summary": "Desarrollador Frontend enfocado en la construcción de aplicaciones web interactivas con React y JavaScript. Experiencia desarrollando interfaces dinámicas, consumo de APIs REST y visualización de datos con D3.js. Interesado en crear soluciones escalables con enfoque en rendimiento, estructura y buenas prácticas.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Ciudad de Mexico",
+      "city": "Ciudad de México",
       "countryCode": "MX",
-      "region": "Mexico"
+      "region": "México"
     },
     "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "Chris6six6",
-        "url": "https://www.linkedin.com/in/chris6six6/"
-      },
       {
         "network": "GitHub",
         "username": "Chris6six6",
@@ -27,150 +20,63 @@
       }
     ]
   },
+
   "work": [
     {
-      "name": "GuitArtBlog",
-      "position": "Desarrollador Backend y Frontend",
+      "name": "GuitArt",
+      "position": "Frontend Developer",
       "url": "https://guitart.blog/",
       "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Desarrollo herramientas interactivas para guitarristas que incluyen un círculo de quintas, generador de escalas, metrónomo y tap tempo. Estas herramientas están diseñadas para músicos de todos los niveles, con un enfoque especial en los guitarristas que desean mejorar su técnica y teoría musical.",
+      "summary": "Desarrollo de plataforma web con herramientas interactivas para músicos utilizando React y D3.js.",
       "highlights": [
-        "Desarrollo de aplicaciones con React, D3.js, y Tailwind CSS",
-        "Integración de herramientas para mejorar la práctica musical diaria"
+        "Arquitectura modular basada en componentes",
+        "Visualización dinámica de datos con D3.js",
+        "Implementación de metrónomo y Tap Tempo en tiempo real",
+        "Optimización de rendimiento y experiencia de usuario"
       ]
     }
   ],
-  "education": [{
-    "institution": "ESCOM IPN",
-      "url": "",
+
+  "education": [
+    {
+      "institution": "Escuela Superior de Cómputo (ESCOM) - IPN",
       "area": "Ingeniería en Sistemas Computacionales",
-      "studyType": "Bachelor",
-      "startDate": "2022-01-01",
-      "endDate": "2024-12-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [
-    {
-      "name": "Front End Development Libraries",
-      "date": "2024-01-01",
-      "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/chris666/front-end-development-libraries"
-    },
-    {
-      "name": "Data Visualization",
-      "date": "2024-02-01",
-      "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/chris666/data-visualization"
-    },
-    {
-      "name": "Relational Database",
-      "date": "2024-03-01",
-      "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/chris666/relational-database-v8"
-    },
-    {
-      "name": "Back End Development and APIs",
-      "date": "2024-04-01",
-      "issuer": "Freecodecamp",
-      "url": "https://www.freecodecamp.org/certification/chris666/back-end-development-and-apis"
+      "studyType": "Bachelor's Degree",
+      "startDate": "2023-01-01",
+      "endDate": "2025-12-01"
     }
   ],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+
   "projects": [
     {
       "name": "GuitArt",
+      "year": 2025,
       "isActive": true,
-      "description": "Página con herramientas para músicos que incluye un círculo de quintas, generador de escalas, metrónomo, tap tempo y foro.",
-      "highlights": [
-        "Herramientas útiles para la práctica musical diaria",
-        "Diseño interactivo para músicos de todos los niveles"
-      ],
+      "description": "Plataforma web interactiva desarrollada con React y D3.js enfocada en herramientas de práctica musical.",
+      "stack": ["React", "D3.js", "JavaScript ES6+", "TailwindCSS"],
       "url": "https://guitart.blog/"
     },
     {
       "name": "REST API - Productos",
+      "year": 2024,
       "isActive": true,
-      "description": "API para gestionar productos y su disponibilidad. Documentada con Swagger ",
-      "highlights": [
-        "API RESTful para la gestión de productos.",
-        "Desarrollada con Node.js y TypeScript",
-        "Testing con Jest y Supertest."
-      ],
+      "description": "API RESTful para gestión de productos y disponibilidad, documentada con Swagger.",
+      "stack": ["Node.js", "TypeScript", "Express", "Jest", "Supertest"],
       "url": "https://rest-api-productos.onrender.com/docs/",
       "github": "https://github.com/Chris6six6/REST-API---Productos"
     },
     {
-      "name": "Pomodoro Clock Project",
+      "name": "Choropleth Map Visualization",
+      "year": 2023,
       "isActive": true,
-      "description": "Herramienta de gestión de tiempo basada en la técnica Pomodoro. Permite dividir el trabajo en intervalos con descansos cortos.",
-      "highlights": [
-        "Interfaz simple y efectiva para mejorar la productividad y descansos",
-        "Tecnologías utilizadas HTML CSS JavaScript React"
-      ],
-      "url": "https://chris6six6.github.io/Build-a-25-5-Clock/",
-      "github": "https://github.com/Chris6six6/Build-a-25-5-Clock"
-      
-    },
-    {
-      "name": "Choropleth Map Visualization Project",
-      "isActive": true,
-      "description": "Mapa coroplético que muestra los niveles educativos en los condados de EE.UU. usando D3.js.",
-      "highlights": [
-        "Visualización clara de datos educativos por región",
-        "Tecnologías utilizadas HTML CSS JavaScript D3.js"
-      ],
+      "description": "Visualización geográfica de datos educativos en EE.UU. utilizando D3.js y manipulación de TopoJSON.",
+      "stack": ["HTML", "CSS", "JavaScript", "D3.js"],
       "url": "https://chris6six6.github.io/Choropleth-Map--D3/",
       "github": "https://github.com/Chris6six6/Choropleth-Map--D3"
-    },
-    {
-      "name": "URL Shortener Microservice",
-      "isActive": true,
-      "description": "Microservicio que acorta URLs con Node.js y Express.",
-      "highlights": [
-        "Acorta URLs de manera eficiente y rápida",
-        "Consulta las url registradas"
-      ],
-      "url": "https://url-shortener-microservice-xcqr.onrender.com/",
-      "github": "https://github.com/Chris6six6/URL-Shortener-Microservice"
     }
   ],
+
   "skills": [
     {
       "name": "HTML",
@@ -219,13 +125,6 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
